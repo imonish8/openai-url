@@ -3,6 +3,7 @@
 <p align="center"> <img width="685" alt="Screenshot 2024-03-25 at 9 02 45 PM" src="https://github.com/imonish8/openai-url/assets/115737071/d34a0e49-86ef-4817-9c97-539b8784295e"> </p>
 
 Welcome to the OpenAI URL Explainer repository! This tool allows you to gain quick insights into any URL you provide, condensing the content into a concise summary of five lines. Whether you're a researcher, developer, or simply curious about the contents of a webpage, this application offers a convenient way to extract key information.
+Tools : Vite.js + CSS Tailwind + Redux + React
 
 ## How It Works
 
