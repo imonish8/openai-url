@@ -59,7 +59,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <p align="center">
  
-# Music to listen while building, Happy Hacking/ Coding !
+# listen while building, Happy Hacking/ Coding !
  
 <img width="601" alt="Screenshot 2024-03-25 at 9 47 16 PM" src="https://github.com/imonish8/openai-url/assets/115737071/18444e74-f347-4a22-974e-d6fbadfb44ac">
 
