@@ -2,8 +2,18 @@
 
 <p align="center"> <img width="685" alt="Screenshot 2024-03-25 at 9 02 45 PM" src="https://github.com/imonish8/openai-url/assets/115737071/d34a0e49-86ef-4817-9c97-539b8784295e"> </p>
 
-Welcome to the OpenAI URL Explainer repository! This tool allows you to gain quick insights into any URL you provide, condensing the content into a concise summary of five lines. Whether you're a researcher, developer, or simply curious about the contents of a webpage, this application offers a convenient way to extract key information.
+<!-- Place this tag where you want the button to render. -->
+### <a class="github-button" href="https://github.com/imonish8/openai-url/fork" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-repo-forked" data-size="large" aria-label="Fork imonish8/openai-url on GitHub">Fork</a>
 
+Fork this Repository -- Make Changes -- Deploy without leaving your VS Code using Surge.
+To Deploy 
+```
+cd yourrepo
+npm install --global surge
+npm surge   
+
+Done, Your own version without leaving VS Code
+```
 > Made with ❤️  : Vite.js + CSS Tailwind + Redux + React
 
 ## How It Works
