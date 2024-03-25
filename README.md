@@ -36,7 +36,8 @@ Contributions to this project are welcomed! Whether you're interested in adding 
 ## Feedback
 
 We value your feedback! If you have any suggestions, encounter issues, or want to share your experience using the OpenAI URL Explainer, please don't hesitate to reach out. You can submit feedback through [GitHub issues](https://github.com/your-username/openai-url-explainer/issues) or contact us directly.
-
+ ### Note : In case you are stuck with Middlewear and Provider with Redux
+ [Refer this Documentation](https://redux.js.org/understanding/history-and-design/middleware)
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
