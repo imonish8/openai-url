@@ -2,7 +2,7 @@
 
 <p align="center"> <img width="685" alt="Screenshot 2024-03-25 at 9 02 45 PM" src="https://github.com/imonish8/openai-url/assets/115737071/d34a0e49-86ef-4817-9c97-539b8784295e"> </p>
 
-<!-- Place this tag where you want the button to render. -->
+
 ### <a class="github-button" href="https://github.com/imonish8/openai-url/fork" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-repo-forked" data-size="large" aria-label="Fork imonish8/openai-url on GitHub">Fork</a>
 
 Fork this Repository -- Make Changes -- Deploy without leaving your VS Code using Surge.
@@ -55,5 +55,16 @@ We value your feedback! If you have any suggestions, encounter issues, or want t
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+
+
+<p align="center">
+ 
+# Music to listen while building, Happy Hacking/ Coding !
+ 
+<img width="601" alt="Screenshot 2024-03-25 at 9 47 16 PM" src="https://github.com/imonish8/openai-url/assets/115737071/18444e74-f347-4a22-974e-d6fbadfb44ac">
+
+
+[Listen to the track on Spotify](https://open.spotify.com/track/6w9KhDYmy0DDnuY7drvrm6?utm_source=generator)
+</p>
 
 *OpenAI URL Explainer* - Unlocking the essence of the web, five lines at a time. 🌐✨
